@@ -9,3 +9,5 @@ then more changes from myfeature branch
 Sample website with plenty of files for demos
 
 ##copyright notes
+
+all rights reserved
